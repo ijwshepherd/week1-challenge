@@ -8,4 +8,4 @@ N/A
 
 ## Usage
 
-visit [ijwshepherd.github.io/week1-challenge](ijwshepherd.github.io/week1-challenge). To view the code, right click in your browser and select inspect.
+visit [ijwshepherd.github.io/week1-challenge](https://ijwshepherd.github.io/week1-challenge). To view the code, right click in your browser and select inspect.
